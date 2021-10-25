@@ -6,4 +6,4 @@ To begin testing
 
 1. 
 
-<pre><code>npm i -g testcafe<pre><code>
+<code>npm i -g testcafe<code>
