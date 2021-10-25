@@ -1,9 +1,10 @@
 # QM-Internship-Challenge
 
-TestCafe lin
+To run the testing file follow the instructions below.
 
-To begin testing
+1. Run the command below to install TestCafe:
+  <code>npm i -g testcafe<code>
+   You can confirm installation by typing <code>testcafe -v<code>
+2. Clone this repo and navigate to the directory where qm_internship_challenge.js is located.
 
-1. Run the command below to install TestCafe
-
-<code>npm i -g testcafe<code>
+3. 
