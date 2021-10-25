@@ -45,7 +45,7 @@ fixture('Problem 3').page('https://www.quantummetric.com/resources/')
 
   const visibleCards = Selector('div').withAttribute('class', 'center container').filterVisible()
 
-test('check_h4_tags_csBtn_m_ai', async t => {
+test('check_h4_csBtn_m_ai', async t => {
   
   await t
     .click(caseStudyBtn)
@@ -56,7 +56,7 @@ test('check_h4_tags_csBtn_m_ai', async t => {
     .expect(await visibleCards.innerText).contains('The Telegraph Boosts Online Conversion with Quantum Metric')
 })
 
-test('check_h4_tags_ebookBtn_fs_ce', async t => {
+test('check_h4_ebookBtn_fs_ce', async t => {
 
   await t
     .click(eBookBtn)
