@@ -8,7 +8,7 @@ To run the testing file follow the instructions below.
   <li>To run the tests run the command <code>testcafe chrome qm_internship_challenge.js</code></li>
     <ul>
       <li>If you run into errors you may have to add <code> --skip-js-errors</code> to the end to skip JS errors.</li>
-      <li>If you want to test with another browser like Safari then replace <code>chrome</code> with <code>safari</code></li>
+      <li>If you want to test with another browser like Safari then replace <code>chrome</code> with <code>safari</code>. If you want to test with multiple browsers, you can add a comma to separate them.</li>
       <li>You can also run the command tests headless by adding the postfix <code>:headless</code> to the browser, so it looks like <code>chrome:headless</code>.</li>
     </ul>
 </ol>
