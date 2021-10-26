@@ -9,7 +9,7 @@ To run the testing file follow the instructions below.
     <ul>
       <li>If you run into errors you may have to add <code> --skip-js-errors</code> to the end to skip JS errors.</li>
       <li>If you want to test with another browser like Safari then replace <code>chrome</code> with <code>safari</code>. If you want to test with multiple browsers, you can add a comma to separate them.</li>
-      <li>You can also run the command tests headless by adding the postfix <code>:headless</code> to the browser, so it looks like <code>chrome:headless</code>.</li>
+      <li>You can also run the tests headless by adding the postfix <code>:headless</code> to the browser, so it looks like <code>chrome:headless</code>.</li>
     </ul>
 </ol>
 
